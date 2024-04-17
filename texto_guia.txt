@@ -1,0 +1,21 @@
+Conjunto de Puntos,
+Conjunto de funciones Base,
+Objetivo!,
+C_L de Funciones Base,
+Se reduce a “coeficientes”,
+mejor aproximación de los puntos,
+minimice una "acumulación" del error individual y Total,
+Como Medir?,
+Error Máximo,
+Error Medio,
+Error Cuadratico Medio (ECM),
+enfoquemonos en el radicando,
+supongamos que tenemos esta funcion aX^2+bX+c,
+minimicen la suma (S) de los cuadrados de los residuos,
+
+
+
+
+
+
+
